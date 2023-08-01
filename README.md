@@ -8,7 +8,9 @@ MD-Social é uma aplicação Front-end voltada para uma interface personalizada 
 
 A aplicação contém funções de adicionar e apagar comentários. Além da função de curtir comentários.
 
-## Layout
+## Layout web
+
+https://github.com/matheusdenigris/MD-Social/assets/102500827/12a07eb6-4573-46de-b328-d295f447245d
 
 # Tecnologias utilizadas
 
