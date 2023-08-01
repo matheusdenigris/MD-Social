@@ -1,0 +1,11 @@
+.header {
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header img {
+  height: 5rem;
+  mix-blend-mode: color-dodge ;
+}
